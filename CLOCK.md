@@ -1,0 +1,1 @@
+Default time grain: 4-hour staff clock (original P.T.O. military time). Week mode is optional and only added if Jack asks after playing. Fast-forward skips empty watches. Do not shorten the campaign first.
